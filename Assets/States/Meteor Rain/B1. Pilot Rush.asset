@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 679625a277fc46c418d28bf0349eca9c, type: 3}
-  m_Name: Room 2
+  m_Name: B1. Pilot Rush
   m_EditorClassIdentifier: 
-  storyText: I'm in Room 2
-  nextStates:
-  - {fileID: 11400000, guid: 5b8d4ba1a209ce444b8e86c562929a42, type: 2}
-  - {fileID: 11400000, guid: 5eb2084a74938da40ac8d1446e29a8b9, type: 2}
+  storyText: "Pilot rush!\r\n\r\nYou controlled the ship with all your skills, and
+    even though got some severe damage on some not vital points of the ship, you managed
+    to escape alive the meteor rain."
+  nextStates: []

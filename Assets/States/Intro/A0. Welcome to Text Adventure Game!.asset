@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 679625a277fc46c418d28bf0349eca9c, type: 3}
-  m_Name: startingState
+  m_Name: A0. Welcome to Text Adventure Game!
   m_EditorClassIdentifier: 
   storyText: "Welcome to Text Adventure Game!\r\n\r\nHere you'll take control of your
     choices and choose your destiny!\r\n\r\nBe prepared for a bunch of tricky scenarios.
     Trying to make the best decisions to lead you to your own victory!\r\n\r\nWhat
     should I do?\r\n1. Copy that!\r\n2. Whata hell..."
   nextStates:
-  - {fileID: 11400000, guid: 5eb2084a74938da40ac8d1446e29a8b9, type: 2}
-  - {fileID: 11400000, guid: 7070ba8eeed0a1340bc178492fa72761, type: 2}
+  - {fileID: 11400000, guid: 3d3bda1cff7a45b43a0524dc42005143, type: 2}
+  - {fileID: 11400000, guid: 69e732e84c3235b448ee1be82d438d07, type: 2}

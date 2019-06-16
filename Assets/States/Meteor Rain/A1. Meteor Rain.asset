@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 679625a277fc46c418d28bf0349eca9c, type: 3}
+  m_Name: A1. Meteor Rain
+  m_EditorClassIdentifier: 
+  storyText: "Meteor Rain\r\n\r\nYour ship is surrounded by a huge meteor rain. You,
+    as a pilot, is trying with all your ability to get out of this deadly situation.\r\n\r\nWhat
+    should I do?\r\n1. Continue to control the ship until get out of the danger zone\r\n2.
+    Uprise until eventually escape\r\n3. Ask for help in ship's communication device"
+  nextStates:
+  - {fileID: 11400000, guid: 6275dd325257c7a4192d1786ea0f1c4c, type: 2}
+  - {fileID: 11400000, guid: 9997132980eca3545b28f2853fa1ecfb, type: 2}
+  - {fileID: 11400000, guid: 93f43eee907de9e408247012c61755b9, type: 2}

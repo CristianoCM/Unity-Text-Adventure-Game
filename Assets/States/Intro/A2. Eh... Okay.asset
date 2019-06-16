@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 679625a277fc46c418d28bf0349eca9c, type: 3}
+  m_Name: A2. Eh... Okay
+  m_EditorClassIdentifier: 
+  storyText: "Eh... Okay.\r\n\r\nThere's no secret. Just read the setences and make
+    your choices with the keyboard numbers 1, 2 and 3.\r\n\r\nJust try not to die.\r\n\r\nWhat
+    should I do?\r\n1. Copy that!\r\n2.  Still have no idea what to do."
+  nextStates:
+  - {fileID: 11400000, guid: 3d3bda1cff7a45b43a0524dc42005143, type: 2}
+  - {fileID: 11400000, guid: cfd72d921ba8fb042963f311749a244f, type: 2}

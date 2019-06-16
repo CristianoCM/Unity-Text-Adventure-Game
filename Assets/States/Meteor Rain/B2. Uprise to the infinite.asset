@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 679625a277fc46c418d28bf0349eca9c, type: 3}
+  m_Name: B2. Uprise to the infinite
+  m_EditorClassIdentifier: 
+  storyText: "Uprise to the infinite!\r\n\r\nExcellent choice. In fact, the meteor
+    rain was not so huge upwards, in a few seconds you managed to get out of it alive
+    and without any external damages on the ship!"
+  nextStates: []
